@@ -1,6 +1,6 @@
 ## Big O notation
 
-Writinga function that calcilates de sum of all numbers from 1 to n
+Writing a function that calculates de sum of all numbers from 1 to n
 
 Solution 1:
 
